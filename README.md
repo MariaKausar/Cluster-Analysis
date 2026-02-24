@@ -9,6 +9,7 @@ This project performs clustering analysis on the PriceRunner dataset to gain ins
 # 📁 Dataset Description
 - 35,310 records
 - 7 features
+- https://archive.ics.uci.edu/dataset/837/product+classification+and+clustering
 
 # 📈 Clustering Evaluation
 The clustering quality was evaluated using silhouette scores:
