@@ -18,7 +18,6 @@ Hierarchical Clustering: 0.5250
 
 K-Means achieved a slightly higher silhouette score, indicating better-defined clusters, although both methods performed similarly on this dataset.
 
-
 # 🎯 Key Outcomes
 Effective product segmentation
 Identification of similar merchants
